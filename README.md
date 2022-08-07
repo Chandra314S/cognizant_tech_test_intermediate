@@ -81,6 +81,9 @@ A covering note explaining the technology choices you have made.
     git bundle create <anything>.bundle --all
 ```
 
+<<<<< feature/intermediate
+
+<<<<< main
 """ Feature/Intermediate Task:
 GitHub Link:- https://github.com/Chandra314S/cognizant_tech_test_intermediate.git
 
