@@ -120,4 +120,4 @@ Deploying Docker image from ECR to ECS to deploy web application.
 --ECS>>Clusters(create clusters)>>select:- EC2 Linux + Networking click on next step>>Configure cluster>>Create
 -- Select launch type compatibility(EC2)>>Configure task and container definitions>>Add Container ECR repository
 -- To run task in cluster >>Cluster>>tasks>>Run new task>>Run task.
--- Link for web application:- http://ec2-35-178-182-237.eu-west-2.compute.amazonaws.com:9999/""".
+-- Link for web application:- http://ec2-18-132-71-210.eu-west-2.compute.amazonaws.com:9999/""".
